@@ -1,4 +1,5 @@
 '''
+Found at: https://gist.github.com/spuder/4a76e42f058ef7b467d9 (Mike Davis 22/6/2018)
 Heavily borrowed from this location: https://github.com/blairbonnett-mirrors/kicad/blob/master/demos/python_scripts_examples/plot_board.py
 
 Parameters
